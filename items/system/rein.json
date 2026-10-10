@@ -1,0 +1,16 @@
+{
+  "id": "system",
+  "name": "Multi-repo systems",
+  "version": "1.0.0",
+  "description": "Which service calls which, symbols across repos from SCIP indexes, API references from gateway to every caller, impact reports, coordinated change sets, codemaps, and the local stack a change needs.",
+  "author": "Rein",
+  "category": "feature",
+  "icon": "⌬",
+  "tags": [
+    "microservices",
+    "monorepo",
+    "architecture"
+  ],
+  "main": "index.mjs",
+  "api": 1
+}
