@@ -1,0 +1,18 @@
+{
+  "id": "quality",
+  "name": "Test quality",
+  "version": "1.0.0",
+  "description": "What your changes affect in a monorepo and the tests for just that, the build system and its caches, the changed lines no test covers, and mutation testing.",
+  "author": "Rein",
+  "category": "feature",
+  "icon": "✓",
+  "tags": [
+    "testing",
+    "coverage",
+    "monorepo",
+    "nx",
+    "bazel"
+  ],
+  "main": "index.mjs",
+  "api": 3
+}

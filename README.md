@@ -24,8 +24,8 @@ A Claude Code marketplace (`.claude-plugin/marketplace.json` with plugins in fol
 | `author`, `icon`, `tags`, `homepage` | Shown in the store |
 | `category` | `tools`, `commands`, `skills`, `ui`, `feature` or `bundle` |
 | `requires` | Other item ids (same marketplace) to install with it: a bundle |
-| `config` | Settings it turns on: `packs`, `experiments`, or a `statusLine` / `sidebarSections` layout |
-| `main`, `api` | Its code: `"main": "index.mjs"` exporting `activate(rein)`, and the extension API version it needs (`1`; `2` for `checks` and `requestStart`) |
+| `config` | Settings it turns on: `experiments`, or a `statusLine` / `sidebarSections` layout |
+| `main`, `api` | Its code: `"main": "index.mjs"` exporting `activate(rein)`, and the extension API version it needs (`1`; `2` for `checks` and `requestStart`; `3` for `shell`, which runs a command line through Rein's approvals and sandbox) |
 
 Uninstalling an item removes its files and undoes the settings it changed.
 

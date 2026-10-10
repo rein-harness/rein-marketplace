@@ -1,0 +1,14 @@
+{
+  "id": "tour",
+  "name": "Onboarding tours",
+  "version": "1.0.0",
+  "description": "/tour writes a guided onboarding tour of the repo, or of the service or feature you name: 8–20 stops in reading order, each a real file and line, as a CodeTour and a markdown page.",
+  "author": "Rein",
+  "category": "skills",
+  "icon": "⚑",
+  "tags": [
+    "onboarding",
+    "docs",
+    "codetour"
+  ]
+}
