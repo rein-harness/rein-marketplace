@@ -1,0 +1,2 @@
+# Bundles and sources are LF everywhere, so the bundle check compares like with like on Windows.
+* text=auto eol=lf

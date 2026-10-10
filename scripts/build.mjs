@@ -23,7 +23,8 @@ for (const id of readdirSync('items')) {
   });
   const text = r.outputFiles[0].text;
   if (check) {
-    if (!existsSync(out) || readFileSync(out, 'utf8') !== text) {
+    // Line endings aside: a Windows checkout may have CRLF.
+    if (!existsSync(out) || readFileSync(out, 'utf8').replace(/\r\n/g, '\n') !== text.replace(/\r\n/g, '\n')) {
       console.error(`${out} is out of date: run npm run build`);
       stale++;
     }
