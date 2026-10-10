@@ -1,0 +1,16 @@
+{
+  "id": "theme-forest",
+  "name": "Forest",
+  "version": "1.0.0",
+  "description": "A calm green accent for the input box, window frames and selections.",
+  "author": "Rein",
+  "category": "ui",
+  "icon": "◐",
+  "tags": [
+    "theme",
+    "green"
+  ],
+  "theme": {
+    "accent": "#4ade80"
+  }
+}

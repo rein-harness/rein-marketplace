@@ -1,0 +1,18 @@
+{
+  "id": "team-starter",
+  "name": "Team starter",
+  "version": "1.0.0",
+  "description": "Conventional commits, release notes and the CI and pull requests pack, in one install.",
+  "author": "Rein",
+  "category": "bundle",
+  "icon": "▣",
+  "tags": [
+    "bundle",
+    "team"
+  ],
+  "requires": [
+    "conventional-commits",
+    "release-notes",
+    "pack-ci"
+  ]
+}

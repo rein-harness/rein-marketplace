@@ -1,0 +1,13 @@
+{
+  "id": "conventional-commits",
+  "name": "Conventional commits",
+  "version": "1.0.0",
+  "description": "/conventional-commits:commit writes a Conventional Commits message for what's staged, and commits after you approve it.",
+  "author": "Rein",
+  "category": "skills",
+  "icon": "✦",
+  "tags": [
+    "git",
+    "commits"
+  ]
+}

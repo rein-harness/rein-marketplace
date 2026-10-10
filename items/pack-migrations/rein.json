@@ -1,0 +1,19 @@
+{
+  "id": "pack-migrations",
+  "name": "Contracts and migrations",
+  "version": "1.0.0",
+  "description": "API contract checks, safe schema migrations, dead code, feature flags, codemods, and migration playbooks for Java 21, Python 3 and React hooks.",
+  "author": "Rein",
+  "category": "feature",
+  "icon": "⇄",
+  "tags": [
+    "api",
+    "database",
+    "migration"
+  ],
+  "config": {
+    "packs": [
+      "migrations"
+    ]
+  }
+}

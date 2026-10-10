@@ -1,0 +1,19 @@
+{
+  "id": "pack-ci",
+  "name": "CI and pull requests",
+  "version": "1.0.0",
+  "description": "CI checks and the CI watcher that fixes failures, PR digests and splits, affected and flaky tests, build caches, coverage, mutation testing and issue trackers.",
+  "author": "Rein",
+  "category": "feature",
+  "icon": "⟳",
+  "tags": [
+    "ci",
+    "github",
+    "testing"
+  ],
+  "config": {
+    "packs": [
+      "ci"
+    ]
+  }
+}

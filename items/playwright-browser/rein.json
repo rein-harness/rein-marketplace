@@ -1,0 +1,15 @@
+{
+  "id": "playwright-browser",
+  "name": "Playwright browser",
+  "version": "1.0.0",
+  "description": "Browser tools for the agent through Microsoft's Playwright MCP server: open pages, click, type, read the page and take screenshots.",
+  "author": "Rein",
+  "category": "tools",
+  "icon": "⚒",
+  "tags": [
+    "browser",
+    "testing",
+    "mcp"
+  ],
+  "homepage": "https://github.com/microsoft/playwright-mcp"
+}

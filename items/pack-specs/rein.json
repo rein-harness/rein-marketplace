@@ -1,0 +1,18 @@
+{
+  "id": "pack-specs",
+  "name": "Specs and planning",
+  "version": "1.0.0",
+  "description": "Spec mode (requirements, design, tasks), architecture decision records and rules, plan risk, and best-of-N runs on Claude and Codex.",
+  "author": "Rein",
+  "category": "feature",
+  "icon": "✎",
+  "tags": [
+    "planning",
+    "architecture"
+  ],
+  "config": {
+    "packs": [
+      "specs"
+    ]
+  }
+}

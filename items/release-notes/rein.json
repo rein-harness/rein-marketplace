@@ -1,0 +1,13 @@
+{
+  "id": "release-notes",
+  "name": "Release notes",
+  "version": "1.0.0",
+  "description": "/release-notes:notes drafts release notes from the commits since the last tag, grouped for the people who use the project.",
+  "author": "Rein",
+  "category": "skills",
+  "icon": "✦",
+  "tags": [
+    "release",
+    "changelog"
+  ]
+}
