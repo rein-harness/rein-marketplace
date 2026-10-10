@@ -1,7 +1,7 @@
 {
   "id": "theme-midnight",
   "name": "Midnight",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "A violet accent for the input box, window frames and selections.",
   "author": "Rein",
   "category": "ui",
@@ -10,7 +10,6 @@
     "theme",
     "dark"
   ],
-  "theme": {
-    "accent": "#a78bfa"
-  }
+  "main": "index.mjs",
+  "api": 1
 }

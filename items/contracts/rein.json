@@ -1,0 +1,17 @@
+{
+  "id": "contracts",
+  "name": "Contracts and migrations",
+  "version": "1.0.0",
+  "description": "Breaking changes to API contracts (OpenAPI, protobuf, GraphQL, Avro), migration safety, dead code and stale feature flags, codemods, and migration playbooks for Java 21, Python 3 and React hooks.",
+  "author": "Rein",
+  "category": "feature",
+  "icon": "⇄",
+  "tags": [
+    "api",
+    "database",
+    "migration",
+    "refactoring"
+  ],
+  "main": "index.mjs",
+  "api": 2
+}

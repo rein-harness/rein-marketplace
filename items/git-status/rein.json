@@ -1,0 +1,16 @@
+{
+  "id": "git-status",
+  "name": "Git status",
+  "version": "1.0.0",
+  "description": "The branch, how far it is from its upstream, and what's changed, in the sidebar and the status line. Refreshed after every turn.",
+  "author": "Rein",
+  "category": "ui",
+  "icon": "⎇",
+  "tags": [
+    "git",
+    "sidebar",
+    "status line"
+  ],
+  "main": "index.mjs",
+  "api": 1
+}
